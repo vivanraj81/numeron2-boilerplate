@@ -30,7 +30,7 @@ case 3:
 number3=number1*number2;
 break;
 case 4:
-number3=math.floor(number1/number2);
+number3=Math.floor(number1/number2);
 break;
 case 5:
 number3=number1%number2;
